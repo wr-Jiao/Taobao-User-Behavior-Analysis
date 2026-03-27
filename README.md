@@ -41,11 +41,10 @@
 
 ## 📂 项目结构
 ```text
-├── notebooks/
-│   └── 用户行为分析.ipynb    
+├── 用户行为分析.ipynb    
 ├── output/
 │   ├── images/             
-│   └── 行为分析报告.html      # 静态预览版本
+│   └── 用户行为分析.html      # 静态预览版本
 ├── .gitignore              
 ├── README.md              
 └── requirements.txt        
